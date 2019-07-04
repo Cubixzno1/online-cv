@@ -34,7 +34,7 @@ host: 0.0.0.0
 safe: false
 
 <<<<<<< HEAD
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 =======
 theme: jekyll-theme-slate
 >>>>>>> aed1fe9bb05cdd48efde60993c83af865324b8b5
