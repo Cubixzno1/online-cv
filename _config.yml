@@ -33,7 +33,4 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
-
-=======
 theme: jekyll-theme-slate
->>>>>>> aed1fe9bb05cdd48efde60993c83af865324b8b5
